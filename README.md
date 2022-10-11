@@ -1,3 +1,6 @@
+
+![carbon](https://user-images.githubusercontent.com/68289151/194988435-7a04140a-622b-402b-b13d-43d2b8e247c3.svg)
+
 - 👋 Hi, I’m @RafaelCampo-ME
 - 👀 I’m interested in functional paradigm and python 
 - 🌱 I’m currently learning clojure and python
@@ -9,4 +12,3 @@ RafaelCampo-ME/RafaelCampo-ME is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-``hola ``
